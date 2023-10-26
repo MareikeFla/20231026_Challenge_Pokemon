@@ -102,22 +102,17 @@ Hint: You may need another CSS rule.
 
 /* ------- List ------- */
 
-/* Task 7: Last but not least! We want to style our list with our favorite Pokémon. Which selector do we need? And also add values for the padding. */
+/* Task 7: Last but not least! 
+We want to style our list with our favorite Pokémon. 
+Which selector do we need? And also add values for the padding. */
 
 /* add selector */
-  {
+  ul {
   list-style: "🧡";
-  padding-left:
-    /* add value */
+  padding-left: 15px;
   ;
 }
 
-/* add selector */
-  {
-  padding-left:
-    /* add value */
-  ;
-}
 
 /* ------- The End -------- */
 
@@ -126,4 +121,7 @@ Hint: You may need another CSS rule.
   height: auto;
 }
 
-/* Note: After finishing all tasks this class should also work. This means that the image should flexibly adjust its size to the width of the viewport. */
+/* Note: After finishing all tasks 
+this class should also work. 
+This means that the image should f
+lexibly adjust its size to the width of the viewport. */
