@@ -31,7 +31,9 @@ too much. Let's change this by giving our headings a line height of 1.2: */
 h1, h2 {
   line-height: 1.2;
 }
-/* Task 4: Now we want to give our h1 element more styles to shine! Add the following styles by writing the correct declarations inside of the declaration block of the next CSS rule:
+/* Task 4: Now we want to give our h1 element more styles to shine! 
+Add the following styles by writing the correct declarations inside 
+of the declaration block of the next CSS rule:
 
 - Change the background color to white
 - Set the top margin to "0"
@@ -40,7 +42,10 @@ h1, h2 {
 */
 
 .title {
-  /* your solution */
+  background-color: white;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
 }
 
 /* ------- Sections ------- */
